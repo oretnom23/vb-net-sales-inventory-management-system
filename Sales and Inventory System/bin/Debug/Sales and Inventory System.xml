@@ -1,0 +1,408 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SalesandInventorySystem
+</name>
+</assembly>
+<members>
+<member name="T:Sales_and_Inventory_System.SI_DBDataSet.BillInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.InventoryCategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.OrderedProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.OrderInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.ProductSoldDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.RegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.UsersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.VendorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.BillInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.InventoryCategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.OrderedProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.OrderInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.ProductSoldRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.RegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.UsersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.VendorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.BillInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.InventoryCategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.OrderedProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.OrderInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.ProductSoldRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.RegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.UsersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet.VendorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.BillInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.CustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.InventoryCategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.OrderedProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.OrderInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.ProductSoldTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.RegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.UsersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.VendorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sales_and_Inventory_System.SI_DBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sales_and_Inventory_System.SI_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sales_and_Inventory_System.SI_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.TableAdapterManager.UpdateAll(Sales_and_Inventory_System.SI_DBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Sales_and_Inventory_System.SI_DBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources._2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.blog_the_ultimate_fundraiser_vendors_pic_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.Box">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.calc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.CCRQInvoice">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.ChangePassword">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.HighAssurance">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.icon_password_off">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.images1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.images2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.INVENTORY">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.inventory_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.invoice_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.kapco_login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.Log_Details">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.login_img1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.logout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.MS_Word_2_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.MS_Word_2_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.Notepad1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.order_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.packages">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.place_your_order">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.RegistrationIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.RegistrationIcon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.services_registration">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.splash_screen1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.stock_icon_v_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.stocks_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.supplierIcon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.system_information_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.task_manager">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.task_manager1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.teacher_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.time_1920x1200">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.url">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.User_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.User_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.Usergroup">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.users">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.vendor_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sales_and_Inventory_System.My.Resources.Resources.Wordpad_icon__Windows_7_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Sales_and_Inventory_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

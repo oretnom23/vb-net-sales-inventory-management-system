@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SI_DBModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="SI_DBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BillInfoes" EntityType="SI_DBModel.BillInfo" />
+    <EntitySet Name="Customers" EntityType="SI_DBModel.Customer" />
+    <EntitySet Name="InventoryCategories" EntityType="SI_DBModel.InventoryCategory" />
+    <EntitySet Name="OrderInfoes" EntityType="SI_DBModel.OrderInfo" />
+    <EntitySet Name="Products" EntityType="SI_DBModel.Product" />
+    <EntitySet Name="Registrations" EntityType="SI_DBModel.Registration" />
+    <EntitySet Name="Stocks" EntityType="SI_DBModel.Stock" />
+    <EntitySet Name="sysdiagrams" EntityType="SI_DBModel.sysdiagram" />
+    <EntitySet Name="Users" EntityType="SI_DBModel.User" />
+    <EntitySet Name="Vendors" EntityType="SI_DBModel.Vendor" />
+    <AssociationSet Name="FK_BillInfo_Customer" Association="SI_DBModel.FK_BillInfo_Customer">
+      <End Role="Customer" EntitySet="Customers" />
+      <End Role="BillInfo" EntitySet="BillInfoes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderInfo_Customer" Association="SI_DBModel.FK_OrderInfo_Customer">
+      <End Role="Customer" EntitySet="Customers" />
+      <End Role="OrderInfo" EntitySet="OrderInfoes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Stock_Product" Association="SI_DBModel.FK_Stock_Product">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="Stock" EntitySet="Stocks" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="BillInfo">
+    <Key>
+      <PropertyRef Name="InvoiceNo" />
+    </Key>
+    <Property Name="InvoiceNo" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="true" />
+    <Property Name="BillingDate" Type="String" MaxLength="30" Unicode="true" FixedLength="true" />
+    <Property Name="CustomerNo" Type="String" MaxLength="20" Unicode="true" FixedLength="true" />
+    <Property Name="CustomerName" Type="String" MaxLength="100" Unicode="true" FixedLength="true" />
+    <Property Name="subTotal" Type="Int32" />
+    <Property Name="TaxPercentage" Type="Double" />
+    <Property Name="TaxAmount" Type="Int32" />
+    <Property Name="GrandTotal" Type="Int32" />
+    <Property Name="TotalPayment" Type="Int32" />
+    <Property Name="PaymentDue" Type="Int32" />
+    <NavigationProperty Name="Customer" Relationship="SI_DBModel.FK_BillInfo_Customer" FromRole="BillInfo" ToRole="Customer" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerNo" />
+    </Key>
+    <Property Name="B_Name" Type="String" MaxLength="100" Unicode="true" FixedLength="true" />
+    <Property Name="B_Address" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="B_Landmark" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="B_city" Type="String" MaxLength="50" Unicode="true" FixedLength="true" />
+    <Property Name="B_state" Type="String" MaxLength="50" Unicode="true" FixedLength="true" />
+    <Property Name="B_zipcode" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="S_Name" Type="String" MaxLength="100" Unicode="true" FixedLength="true" />
+    <Property Name="S_address" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="S_landmark" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="S_city" Type="String" MaxLength="50" Unicode="true" FixedLength="true" />
+    <Property Name="S_state" Type="String" MaxLength="50" Unicode="true" FixedLength="true" />
+    <Property Name="S_zipcode" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="CustomerNo" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="true" />
+    <Property Name="Phone" Type="String" MaxLength="15" Unicode="true" FixedLength="true" />
+    <Property Name="Email" Type="String" MaxLength="150" Unicode="false" FixedLength="false" />
+    <Property Name="MobileNo" Type="String" MaxLength="15" Unicode="true" FixedLength="true" />
+    <Property Name="FaxNo" Type="String" MaxLength="15" Unicode="true" FixedLength="true" />
+    <Property Name="Notes" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="BillInfoes" Relationship="SI_DBModel.FK_BillInfo_Customer" FromRole="Customer" ToRole="BillInfo" />
+    <NavigationProperty Name="OrderInfoes" Relationship="SI_DBModel.FK_OrderInfo_Customer" FromRole="Customer" ToRole="OrderInfo" />
+  </EntityType>
+  <EntityType Name="InventoryCategory">
+    <Key>
+      <PropertyRef Name="CategoryID" />
+    </Key>
+    <Property Name="CategoryID" Type="String" Nullable="false" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="CategoryName" Type="String" MaxLength="150" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="OrderInfo">
+    <Key>
+      <PropertyRef Name="OrderNo" />
+    </Key>
+    <Property Name="OrderNo" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="true" />
+    <Property Name="OrderDate" Type="String" MaxLength="30" Unicode="true" FixedLength="true" />
+    <Property Name="OrderStatus" Type="String" MaxLength="20" Unicode="true" FixedLength="true" />
+    <Property Name="CustomerNo" Type="String" MaxLength="20" Unicode="true" FixedLength="true" />
+    <Property Name="CustomerName" Type="String" MaxLength="100" Unicode="true" FixedLength="true" />
+    <Property Name="SubTotal" Type="Int32" />
+    <Property Name="TaxPercentage" Type="Double" />
+    <Property Name="TaxAmount" Type="Int32" />
+    <Property Name="TotalAmount" Type="Int32" />
+    <NavigationProperty Name="Customer" Relationship="SI_DBModel.FK_OrderInfo_Customer" FromRole="OrderInfo" ToRole="Customer" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductCode" />
+    </Key>
+    <Property Name="ProductCode" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="true" />
+    <Property Name="ProductName" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="Category" Type="String" MaxLength="150" Unicode="false" FixedLength="false" />
+    <Property Name="Weight" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="Price" Type="Double" />
+    <NavigationProperty Name="Stocks" Relationship="SI_DBModel.FK_Stock_Product" FromRole="Product" ToRole="Stock" />
+  </EntityType>
+  <EntityType Name="Registration">
+    <Key>
+      <PropertyRef Name="Username" />
+    </Key>
+    <Property Name="Username" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="true" />
+    <Property Name="Password" Type="String" MaxLength="30" Unicode="true" FixedLength="true" />
+    <Property Name="Name" Type="String" MaxLength="30" Unicode="true" FixedLength="true" />
+    <Property Name="ContactNo" Type="String" MaxLength="15" Unicode="true" FixedLength="true" />
+  </EntityType>
+  <EntityType Name="Stock">
+    <Key>
+      <PropertyRef Name="StockID" />
+    </Key>
+    <Property Name="StockID" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="true" />
+    <Property Name="ProductCode" Type="String" MaxLength="20" Unicode="true" FixedLength="true" />
+    <Property Name="ProductName" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="Category" Type="String" MaxLength="150" Unicode="false" FixedLength="false" />
+    <Property Name="Weight" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="Stockdate" Type="String" MaxLength="30" Unicode="true" FixedLength="true" />
+    <Property Name="Cartons" Type="Int32" />
+    <Property Name="Packets" Type="Int32" />
+    <Property Name="TotalPackets" Type="Int32" />
+    <NavigationProperty Name="Product" Relationship="SI_DBModel.FK_Stock_Product" FromRole="Stock" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserName" />
+    </Key>
+    <Property Name="UserName" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="true" />
+    <Property Name="Password" Type="String" MaxLength="30" Unicode="true" FixedLength="true" />
+  </EntityType>
+  <EntityType Name="Vendor">
+    <Key>
+      <PropertyRef Name="VendorID" />
+    </Key>
+    <Property Name="VendorID" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="true" />
+    <Property Name="Name" Type="String" MaxLength="100" Unicode="true" FixedLength="true" />
+    <Property Name="Address" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="Landmark" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="City" Type="String" MaxLength="50" Unicode="true" FixedLength="true" />
+    <Property Name="State" Type="String" MaxLength="50" Unicode="true" FixedLength="true" />
+    <Property Name="ZipCode" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="Phone" Type="String" MaxLength="15" Unicode="true" FixedLength="true" />
+    <Property Name="Email" Type="String" MaxLength="150" Unicode="false" FixedLength="false" />
+    <Property Name="MobileNo" Type="String" MaxLength="15" Unicode="true" FixedLength="true" />
+    <Property Name="FaxNo" Type="String" MaxLength="15" Unicode="true" FixedLength="true" />
+    <Property Name="Notes" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_BillInfo_Customer">
+    <End Role="Customer" Type="SI_DBModel.Customer" Multiplicity="0..1" />
+    <End Role="BillInfo" Type="SI_DBModel.BillInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustomerNo" />
+      </Principal>
+      <Dependent Role="BillInfo">
+        <PropertyRef Name="CustomerNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderInfo_Customer">
+    <End Role="Customer" Type="SI_DBModel.Customer" Multiplicity="0..1" />
+    <End Role="OrderInfo" Type="SI_DBModel.OrderInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustomerNo" />
+      </Principal>
+      <Dependent Role="OrderInfo">
+        <PropertyRef Name="CustomerNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Stock_Product">
+    <End Role="Product" Type="SI_DBModel.Product" Multiplicity="0..1" />
+    <End Role="Stock" Type="SI_DBModel.Stock" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductCode" />
+      </Principal>
+      <Dependent Role="Stock">
+        <PropertyRef Name="ProductCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,453 @@
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.xml
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSplashScreen.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmAbout.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLogin.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.Resources.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbproj.GenerateResource.Cache
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.xml
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.pdb
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmChangePassword.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomer.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmMain.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendor.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategory.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategoryRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSystemInfo.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmPasswordRecovery.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistration.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationDetails.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLoginDetails.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProduct.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSales.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbprojResolveAssemblyReference.cache
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmBillingReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmPrintOptions.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrder.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord2.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInVoiceNo.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInvoice.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrdersReport.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStock.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrders.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord3.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord1.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord2.resources
+C:\Users\Raj\Documents\Visual Studio 2010\Projects\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord1.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.xml
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.pdb
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.xml
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbprojResolveAssemblyReference.cache
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmBillingReport.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmChangePassword.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomer.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord1.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord2.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord3.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategory.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategoryRecord.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInvoice.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInVoiceNo.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLoginDetails.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmMain.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrder.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord1.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrders.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrdersReport.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmPasswordRecovery.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmPrintOptions.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProduct.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord1.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord2.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct1.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationDetails.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationReport.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSales.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmAbout.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLogin.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord1.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesReport.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSplashScreen.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStock.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails1.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSystemInfo.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendor.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords1.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.Resources.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistration.resources
+D:\Projects\Project sources\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.xml
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.pdb
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.xml
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmBillingReport.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmChangePassword.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomer.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord2.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord3.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategory.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategoryRecord.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInvoice.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInVoiceNo.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLoginDetails.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmMain.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrder.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrders.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrdersReport.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmPasswordRecovery.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmPrintOptions.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProduct.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord2.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationDetails.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationReport.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSales.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmAbout.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLogin.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesReport.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSplashScreen.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStock.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSystemInfo.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendor.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.Resources.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistration.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbproj.GenerateResource.Cache
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.xml
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.pdb
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.xml
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbprojResolveAssemblyReference.cache
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmBillingReport.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmChangePassword.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomer.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord1.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord2.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord3.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategory.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategoryRecord.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInvoice.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInVoiceNo.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLoginDetails.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmMain.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrder.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord1.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrders.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrdersReport.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmPasswordRecovery.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmPrintOptions.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProduct.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord1.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord2.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct1.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationDetails.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationReport.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSales.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmAbout.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLogin.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord1.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesReport.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSplashScreen.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStock.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails1.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSystemInfo.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendor.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords1.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.Resources.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistration.resources
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbproj.GenerateResource.Cache
+D:\Projects\Project sources\Sales and Inventory MS Access (Updated)\Sales and Inventory System (MS Access)\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInVoicesReport.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.manifest
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.application
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.xml
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmBillingReport.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmChangePassword.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomer.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord2.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord3.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategory.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategoryRecord.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInvoice.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInVoiceNo.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInVoicesReport.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLoginDetails.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmMain.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrder.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrders.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrdersReport.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmPasswordRecovery.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmPrintOptions.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProduct.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord2.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationDetails.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationReport.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSales.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmAbout.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLogin.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesReport.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSplashScreen.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStock.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSystemInfo.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendor.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.Resources.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistration.resources
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.TrustInfo.xml
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe.manifest
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.application
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.xml
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.pdb
+C:\Users\Raj\Desktop\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.xml
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.pdb
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.manifest
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.application
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.xml
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmBillingReport.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmChangePassword.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomer.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord1.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord2.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord3.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategory.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategoryRecord.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInvoice.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInVoiceNo.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInVoicesReport.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLoginDetails.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmMain.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrder.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord1.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrders.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrdersReport.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmPasswordRecovery.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmPrintOptions.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProduct.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord1.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord2.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct1.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationDetails.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationReport.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSales.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmAbout.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLogin.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord1.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesReport.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSplashScreen.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStock.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails1.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSystemInfo.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendor.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords1.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.Resources.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistration.resources
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.TrustInfo.xml
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe.manifest
+C:\Users\Raj\Desktop\Project Screen shots\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.application
+D:\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.xml
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.pdb
+D:\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.manifest
+D:\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.application
+D:\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+D:\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+D:\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.xml
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbprojResolveAssemblyReference.cache
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmBillingReport.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmChangePassword.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomer.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord1.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord2.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord3.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategory.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategoryRecord.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInvoice.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInVoiceNo.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInVoicesReport.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLoginDetails.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmMain.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrder.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord1.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrders.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrdersReport.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmPasswordRecovery.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmPrintOptions.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProduct.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord1.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord2.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct1.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationDetails.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationReport.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSales.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmAbout.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLogin.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord1.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesReport.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSplashScreen.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStock.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails1.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSystemInfo.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendor.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords1.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.Resources.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistration.resources
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbproj.GenerateResource.Cache
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.TrustInfo.xml
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe.manifest
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.application
+D:\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.xml
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.pdb
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.manifest
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\bin\Debug\Sales and Inventory System.application
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\bin\Debug\Sales and Inventory System.xml
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbprojResolveAssemblyReference.cache
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmBillingReport.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmChangePassword.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomer.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord1.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord2.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord3.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategory.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategoryRecord.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInvoice.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInVoiceNo.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInVoicesReport.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLoginDetails.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmMain.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrder.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord1.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrders.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrdersReport.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmPasswordRecovery.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmPrintOptions.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProduct.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord1.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord2.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct1.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationDetails.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationReport.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSales.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmAbout.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLogin.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord1.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesReport.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSplashScreen.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStock.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails1.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSystemInfo.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendor.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords1.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.Resources.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistration.resources
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbproj.GenerateResource.Cache
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.TrustInfo.xml
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe.manifest
+D:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.application
+E:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+E:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe
+E:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.xml
+E:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.pdb

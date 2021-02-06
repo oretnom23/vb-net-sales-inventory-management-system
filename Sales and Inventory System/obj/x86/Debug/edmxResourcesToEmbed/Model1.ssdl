@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SI_DBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="SI_DBModelStoreContainer">
+    <EntitySet Name="BillInfo" EntityType="SI_DBModel.Store.BillInfo" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Customer" EntityType="SI_DBModel.Store.Customer" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="InventoryCategory" EntityType="SI_DBModel.Store.InventoryCategory" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="OrderInfo" EntityType="SI_DBModel.Store.OrderInfo" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Product" EntityType="SI_DBModel.Store.Product" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Registration" EntityType="SI_DBModel.Store.Registration" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Stock" EntityType="SI_DBModel.Store.Stock" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="sysdiagrams" EntityType="SI_DBModel.Store.sysdiagrams" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Users" EntityType="SI_DBModel.Store.Users" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Vendor" EntityType="SI_DBModel.Store.Vendor" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_BillInfo_Customer" Association="SI_DBModel.Store.FK_BillInfo_Customer">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="BillInfo" EntitySet="BillInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderInfo_Customer" Association="SI_DBModel.Store.FK_OrderInfo_Customer">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="OrderInfo" EntitySet="OrderInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Stock_Product" Association="SI_DBModel.Store.FK_Stock_Product">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="Stock" EntitySet="Stock" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="BillInfo">
+    <Key>
+      <PropertyRef Name="InvoiceNo" />
+    </Key>
+    <Property Name="InvoiceNo" Type="nchar" Nullable="false" MaxLength="20" />
+    <Property Name="BillingDate" Type="nchar" MaxLength="30" />
+    <Property Name="CustomerNo" Type="nchar" MaxLength="20" />
+    <Property Name="CustomerName" Type="nchar" MaxLength="100" />
+    <Property Name="subTotal" Type="int" />
+    <Property Name="TaxPercentage" Type="float" />
+    <Property Name="TaxAmount" Type="int" />
+    <Property Name="GrandTotal" Type="int" />
+    <Property Name="TotalPayment" Type="int" />
+    <Property Name="PaymentDue" Type="int" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerNo" />
+    </Key>
+    <Property Name="B_Name" Type="nchar" MaxLength="100" />
+    <Property Name="B_Address" Type="varchar" MaxLength="250" />
+    <Property Name="B_Landmark" Type="varchar" MaxLength="250" />
+    <Property Name="B_city" Type="nchar" MaxLength="50" />
+    <Property Name="B_state" Type="nchar" MaxLength="50" />
+    <Property Name="B_zipcode" Type="nchar" MaxLength="10" />
+    <Property Name="S_Name" Type="nchar" MaxLength="100" />
+    <Property Name="S_address" Type="varchar" MaxLength="250" />
+    <Property Name="S_landmark" Type="varchar" MaxLength="250" />
+    <Property Name="S_city" Type="nchar" MaxLength="50" />
+    <Property Name="S_state" Type="nchar" MaxLength="50" />
+    <Property Name="S_zipcode" Type="nchar" MaxLength="10" />
+    <Property Name="CustomerNo" Type="nchar" Nullable="false" MaxLength="20" />
+    <Property Name="Phone" Type="nchar" MaxLength="15" />
+    <Property Name="Email" Type="varchar" MaxLength="150" />
+    <Property Name="MobileNo" Type="nchar" MaxLength="15" />
+    <Property Name="FaxNo" Type="nchar" MaxLength="15" />
+    <Property Name="Notes" Type="varchar" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="InventoryCategory">
+    <Key>
+      <PropertyRef Name="CategoryID" />
+    </Key>
+    <Property Name="CategoryID" Type="nchar" Nullable="false" MaxLength="10" />
+    <Property Name="CategoryName" Type="varchar" MaxLength="150" />
+  </EntityType>
+  <EntityType Name="OrderInfo">
+    <Key>
+      <PropertyRef Name="OrderNo" />
+    </Key>
+    <Property Name="OrderNo" Type="nchar" Nullable="false" MaxLength="20" />
+    <Property Name="OrderDate" Type="nchar" MaxLength="30" />
+    <Property Name="OrderStatus" Type="nchar" MaxLength="20" />
+    <Property Name="CustomerNo" Type="nchar" MaxLength="20" />
+    <Property Name="CustomerName" Type="nchar" MaxLength="100" />
+    <Property Name="SubTotal" Type="int" />
+    <Property Name="TaxPercentage" Type="float" />
+    <Property Name="TaxAmount" Type="int" />
+    <Property Name="TotalAmount" Type="int" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductCode" />
+    </Key>
+    <Property Name="ProductCode" Type="nchar" Nullable="false" MaxLength="20" />
+    <Property Name="ProductName" Type="varchar" MaxLength="250" />
+    <Property Name="Category" Type="varchar" MaxLength="150" />
+    <Property Name="Weight" Type="nchar" MaxLength="10" />
+    <Property Name="Price" Type="float" />
+  </EntityType>
+  <EntityType Name="Registration">
+    <Key>
+      <PropertyRef Name="Username" />
+    </Key>
+    <Property Name="Username" Type="nchar" Nullable="false" MaxLength="30" />
+    <Property Name="Password" Type="nchar" MaxLength="30" />
+    <Property Name="Name" Type="nchar" MaxLength="30" />
+    <Property Name="ContactNo" Type="nchar" MaxLength="15" />
+  </EntityType>
+  <EntityType Name="Stock">
+    <Key>
+      <PropertyRef Name="StockID" />
+    </Key>
+    <Property Name="StockID" Type="nchar" Nullable="false" MaxLength="20" />
+    <Property Name="ProductCode" Type="nchar" MaxLength="20" />
+    <Property Name="ProductName" Type="varchar" MaxLength="250" />
+    <Property Name="Category" Type="varchar" MaxLength="150" />
+    <Property Name="Weight" Type="nchar" MaxLength="10" />
+    <Property Name="Stockdate" Type="nchar" MaxLength="30" />
+    <Property Name="Cartons" Type="int" />
+    <Property Name="Packets" Type="int" />
+    <Property Name="TotalPackets" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" Nullable="false" MaxLength="128" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserName" />
+    </Key>
+    <Property Name="UserName" Type="nchar" Nullable="false" MaxLength="30" />
+    <Property Name="Password" Type="nchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Vendor">
+    <Key>
+      <PropertyRef Name="VendorID" />
+    </Key>
+    <Property Name="VendorID" Type="nchar" Nullable="false" MaxLength="20" />
+    <Property Name="Name" Type="nchar" MaxLength="100" />
+    <Property Name="Address" Type="varchar" MaxLength="250" />
+    <Property Name="Landmark" Type="varchar" MaxLength="250" />
+    <Property Name="City" Type="nchar" MaxLength="50" />
+    <Property Name="State" Type="nchar" MaxLength="50" />
+    <Property Name="ZipCode" Type="nchar" MaxLength="10" />
+    <Property Name="Phone" Type="nchar" MaxLength="15" />
+    <Property Name="Email" Type="varchar" MaxLength="150" />
+    <Property Name="MobileNo" Type="nchar" MaxLength="15" />
+    <Property Name="FaxNo" Type="nchar" MaxLength="15" />
+    <Property Name="Notes" Type="varchar" MaxLength="250" />
+  </EntityType>
+  <Association Name="FK_BillInfo_Customer">
+    <End Role="Customer" Type="SI_DBModel.Store.Customer" Multiplicity="0..1" />
+    <End Role="BillInfo" Type="SI_DBModel.Store.BillInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustomerNo" />
+      </Principal>
+      <Dependent Role="BillInfo">
+        <PropertyRef Name="CustomerNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderInfo_Customer">
+    <End Role="Customer" Type="SI_DBModel.Store.Customer" Multiplicity="0..1" />
+    <End Role="OrderInfo" Type="SI_DBModel.Store.OrderInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustomerNo" />
+      </Principal>
+      <Dependent Role="OrderInfo">
+        <PropertyRef Name="CustomerNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Stock_Product">
+    <End Role="Product" Type="SI_DBModel.Store.Product" Multiplicity="0..1" />
+    <End Role="Stock" Type="SI_DBModel.Store.Stock" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductCode" />
+      </Principal>
+      <Dependent Role="Stock">
+        <PropertyRef Name="ProductCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <!--Errors Found During Generation:
+      warning 6013: The table/view 'C:\USERS\RAJ\DOCUMENTS\VISUAL STUDIO 2010\PROJECTS\SALES AND INVENTORY SYSTEM\SALES AND INVENTORY SYSTEM\SI_DB.MDF.dbo.OrderedProduct' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+      
+      <EntityType Name="OrderedProduct">
+        <Property Name="OrderNo" Type="nchar" MaxLength="20" />
+        <Property Name="ProductCode" Type="nchar" MaxLength="20" />
+        <Property Name="ProductName" Type="varchar" MaxLength="250" />
+        <Property Name="Weight" Type="nchar" MaxLength="10" />
+        <Property Name="Price" Type="float" />
+        <Property Name="Cartons" Type="int" />
+        <Property Name="TotalPackets" Type="int" />
+        <Property Name="TotalAmount" Type="int" />
+      </EntityType>
+      Errors Found During Generation:
+      warning 6013: The table/view 'C:\USERS\RAJ\DOCUMENTS\VISUAL STUDIO 2010\PROJECTS\SALES AND INVENTORY SYSTEM\SALES AND INVENTORY SYSTEM\SI_DB.MDF.dbo.ProductSold' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+      
+      <EntityType Name="ProductSold">
+        <Property Name="InvoiceNo" Type="nchar" MaxLength="20" />
+        <Property Name="ProductCode" Type="nchar" MaxLength="20" />
+        <Property Name="ProductName" Type="varchar" MaxLength="250" />
+        <Property Name="Weight" Type="nchar" MaxLength="10" />
+        <Property Name="Price" Type="float" />
+        <Property Name="Cartons" Type="int" />
+        <Property Name="TotalPackets" Type="int" />
+        <Property Name="TotalAmount" Type="int" />
+      </EntityType>-->
+</Schema>
